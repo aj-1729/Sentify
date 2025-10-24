@@ -1,1 +1,1 @@
-This is a simple flask app build using rest api and a corre ml algorithm random forest which takes input from the fontend which is a review by a customer and it just classify the text into a sentiment which helps the user to review their product without wasting much time
+This is a simple flask app build using rest api and a core ml algorithm random forest which takes input from the fontend which is a review by a customer and it just classify the text into a sentiment which helps the user to review their product without wasting much time.
